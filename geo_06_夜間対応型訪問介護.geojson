@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_06_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "夜間対応型訪問介護つつじ【夜間対応型訪問介護】山形県寒河江市大字寒河江字塩水6-1", "url": "https://www.kaigokensaku.mhlw.go.jp/06/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=691200067-00&ServiceCd=710&Type=search", "url2": "http://www.npo-ajisai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.261482056206006, 38.379472066310797 ] } },
+{ "type": "Feature", "properties": { "内容": "夜間対応型訪問介護ホームヘルパーステーションなの花荘【夜間対応型訪問介護】山形県東田川郡三川町大字横山字城下228番地9", "url": "https://www.kaigokensaku.mhlw.go.jp/06/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=693000085-00&ServiceCd=710&Type=search", "url2": "http://www.nanohanaso.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.851165944982995, 38.776767176875502 ] } }
+]
+}

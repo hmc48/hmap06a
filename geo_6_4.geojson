@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "geo_6_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "エンジェル助産院さいとう母乳育児相談所【4:助産院】山形県山形市青田２－３－２１", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499530001&kikanKbn=4", "url2": "http://www.angelnet.biz" }, "geometry": { "type": "Point", "coordinates": [ 140.334148, 38.22532 ] } },
+{ "type": "Feature", "properties": { "内容": "わたなべ助産院【4:助産院】山形県山形市成沢西２丁目５番１号フォレスト１　１０１", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499530004&kikanKbn=4", "url2": "https://sites.google.com/view/watanabe-jyosannin?usp=sharing" }, "geometry": { "type": "Point", "coordinates": [ 140.313236, 38.211631 ] } },
+{ "type": "Feature", "properties": { "内容": "訪問型母乳育児サポート「助産師のひとみさん」（出張のみ）【4:助産院】山形県山形市", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499530010&kikanKbn=4", "url2": "https://mw-hitomisan.com" }, "geometry": { "type": "Point", "coordinates": [ 140.339617, 38.255415 ] } },
+{ "type": "Feature", "properties": { "内容": "助産院　ｎａｎａ【4:助産院】山形県東村山郡山辺町根際", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499530013&kikanKbn=4", "url2": "https://jyosanin-nana.com" }, "geometry": { "type": "Point", "coordinates": [ 140.256778, 38.287318 ] } },
+{ "type": "Feature", "properties": { "内容": "授乳相談室　たかはし【4:助産院】山形県新庄市常葉町３−５４", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499540001&kikanKbn=4", "url2": "https://yuu-baby.com/" }, "geometry": { "type": "Point", "coordinates": [ 140.303469, 38.769468 ] } },
+{ "type": "Feature", "properties": { "内容": "マザー＆ベビーケアサロンままのて【4:助産院】山形県米沢市金池５−１０−２２", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499610003&kikanKbn=4", "url2": "http://www.mamanote.biz" }, "geometry": { "type": "Point", "coordinates": [ 140.116793, 37.925164 ] } },
+{ "type": "Feature", "properties": { "内容": "ｙｕｍｅ助産院【4:助産院】山形県長井市歌丸１４９７", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499610004&kikanKbn=4", "url2": "https://ameblo.jp/yumejosanin/entry-12424680244.html" }, "geometry": { "type": "Point", "coordinates": [ 140.031866, 38.058463 ] } },
+{ "type": "Feature", "properties": { "内容": "ゆらティス【4:助産院】山形県米沢市通町３丁目１０－５０", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499610005&kikanKbn=4", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.1302839, 37.8894886 ] } },
+{ "type": "Feature", "properties": { "内容": "なんば助産院　なんばサロン　ｗｈｉｔｅ【4:助産院】山形県鶴岡市日枝字小真木原８９－１４", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499620003&kikanKbn=4", "url2": "http://www13.plala.or.jp/sanzen-sango/" }, "geometry": { "type": "Point", "coordinates": [ 139.8151253, 38.7108676 ] } },
+{ "type": "Feature", "properties": { "内容": "こた助産所【4:助産院】山形県酒田市大町１８－２７", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499620004&kikanKbn=4", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.8556, 38.903968 ] } },
+{ "type": "Feature", "properties": { "内容": "ごっと助産院【4:助産院】山形県酒田市市条字荒瀬９番地２５", "url": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?prefCd=06&kikanCd=499620005&kikanKbn=4", "url2": "https://gottosan.com" }, "geometry": { "type": "Point", "coordinates": [ 139.933814, 38.96624 ] } }
+]
+}

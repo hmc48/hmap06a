@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_06_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅清永の里【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】山形県山形市嶋北四丁目4ｰ13", "url": "https://www.kaigokensaku.mhlw.go.jp/06/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=670105030-00&ServiceCd=&Type=search", "url2": "http://www.seieig.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 140.317594899999989, 38.2892298 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅　グランドホームはたごまち【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】山形市旅篭町一丁目７番２３号", "url": "https://www.kaigokensaku.mhlw.go.jp/06/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=670103043-00&ServiceCd=&Type=search", "url2": "http://www.shiseido-hp.jp/index.html" }, "geometry": { "type": "Point", "coordinates": [ 140.3347243, 38.2550916 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付高齢者向け住宅　日和【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】山形県新庄市本町4番33号こらっせ新庄3Ｆ", "url": "https://www.kaigokensaku.mhlw.go.jp/06/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=671100675-00&ServiceCd=&Type=search", "url2": "hiyori@grape.plala.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.3009056, 38.7670234 ] } }
+]
+}
